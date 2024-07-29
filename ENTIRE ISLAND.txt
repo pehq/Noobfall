@@ -1,0 +1,21 @@
+ENTIRE ISLAND IN PIXELS = 859 691 pixels squared
+ENTIRE ISLAND IN M (according to blaley) = 800000 km squared
+ENTIRE ISLAND IN M (according to Catronix) = 740000 km squared
+Meters to studs = meters / 0.28
+Entire island in studs = ???
+
+Entire island in studs
+
+(meter squared) * (1/0.28)^2 = studs sq
+
+scale with pixels
+
+studs sq / 859 691 px sq = studs per pixel
+
+NOTE: 1 km sq = 1000000 m sq
+
+
+--map size
+80000000000 * (1 / 0.28)^2 / 859691 = 1186947.59311
+
+1186947.59311 ^ 0.5 = 1089.47124474
